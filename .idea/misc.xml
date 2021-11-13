@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_asset_51.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_asset_51_blue.xml" value="1.084375" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_asset_51_yellow.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_asset_53.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_asset_53_light_blue.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_asset_53_white.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_asset_54.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_asset_54_light_blue.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_asset_55.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_asset_55_lightblue.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_asset_55_white.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_splash_screen.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_ureckon.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/ic_ureckon_logo_glow.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/last_try_glow.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/new_splash_screen.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/drawable/splash_screen.xml" value="0.5" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/layout/activity_login.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/layout/activity_main.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/UREKORN/app/src/main/res/layout/activity_main_dashed_board.xml" value="0.2552083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
